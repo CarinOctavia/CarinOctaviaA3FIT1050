@@ -420,7 +420,7 @@ a.icon {
 }
 
 .header-banner1{
-  background: url('../images/Ads1.jpg') no-repeat;
+  background: url('../images/ad2.jpg') no-repeat;
   object-fit: cover;
   background-size: cover;
   height: 60vh !important;
@@ -431,7 +431,7 @@ a.icon {
 }
 
 .header-banner2{
-  background: url('../images/Ads2.jpg') no-repeat;
+  background: url('../images/ad3.jpg') no-repeat;
   object-fit: cover;
   background-size: cover;
   height: 60vh !important;
